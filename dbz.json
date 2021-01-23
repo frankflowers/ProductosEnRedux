@@ -1,0 +1,31 @@
+{
+  "productos": [
+    {
+      "nombre": " orden de Tacos al pastor",
+      "precio": "160",
+      "id": 6,
+      "Precio": "5502",
+      "Nombre": "rib eyeq"
+    },
+    {
+      "nombre": "Hamburguesa",
+      "precio": "120",
+      "id": 7
+    },
+    {
+      "nombre": "spaguetti",
+      "precio": 50,
+      "id": 8
+    },
+    {
+      "nombre": "toston de mota",
+      "precio": 1100,
+      "id": 9
+    },
+    {
+      "nombre": "Mas comida",
+      "precio": 100,
+      "id": 10
+    }
+  ]
+}
